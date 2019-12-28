@@ -2,6 +2,6 @@
   "devices": [
     { "name": "name 1", "model": "Post 1", "identifier" : "XCASDA-1", "imageUrl" : "" },
     { "name": "name 2", "model": "Post 2", "identifier" : "XCASDA-2", "imageUrl" : "" },
-    { "name": "name 3", "model": "Post 3", "identifier" : "XCASDA-3", "imageUrl" : "" },
+    { "name": "name 3", "model": "Post 3", "identifier" : "XCASDA-3", "imageUrl" : "" }
   ]
 }
