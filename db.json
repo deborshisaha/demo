@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "devices": [
+    { "name": "name 1", "model": "Post 1", "identifier" : "XCASDA-1", "imageUrl" : "" },
+    { "name": "name 2", "model": "Post 2", "identifier" : "XCASDA-2", "imageUrl" : "" },
+    { "name": "name 3", "model": "Post 3", "identifier" : "XCASDA-3", "imageUrl" : "" },
+  ]
 }
